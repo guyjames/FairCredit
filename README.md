@@ -28,7 +28,7 @@ This is just a draft proposal so far so any thoughts are appreciated, thanks.
 
 Please see the diagram below for Julio's initial design:
 
-![](https://imgur.com/a/Wwawf1P)
+![](https://i.imgur.com/M0ZDqz3.jpg)
 
 
 
