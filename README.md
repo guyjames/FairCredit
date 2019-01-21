@@ -42,7 +42,7 @@ This is just a draft proposal so far so any thoughts are appreciated, thanks.
 
 Please see the diagram below for Julio's initial design:
 
-![](/home/eltopo/EncFS/DropBoxCrypt/FairCoop/FairMutualCredit/julio-faircredit-holochain.jpg)
+![](https://i.imgur.com/M0ZDqz3.jpg)
 
 -----
 
