@@ -19,28 +19,18 @@ The first time she donates a percent of her profits she will continue to have a 
 
 So if she donates 100€ per month, she could earn a credit limit of 10 FairCredits, then, if after 3 months, if she doesn't spend FairCredits, she will have a balance of 300 FC, plus a -10 credit limit, so in total, she can use up to 310 FC. This of this 10 credit limit as a **"kind-of-interest"** on her investments. So if she continues to do that regularly, her credit limits will increase, up to a maximum percentage of her monthly donations. This is a nice way to do incentives, without creating huge inflation like with actual compound interests in today's deleterious capitalism.
 
-Another example: Bob has heard about FairCoop and wants to get involved, so he goes to getfaircoin.net and buys 100 FairCoins at the official price using bank transfer. When the transaction is completed he receives an email with a QR code which he can scan using the FairCredit app, and which increases his credit limit by 100 FairCredits. This adds significant value to buying FairCoins at the official price.
+Another example: Bob has heard about FairCoop and wants to get involved, so he goes to getfaircoin.net and buys 100 FairCoins at the official price using bank transfer. When the transaction is completed he receives an email with a QR code which he can scan using the FairCredit app, and which increases his credit limit by 100 FairCredits. This adds significant value to buying FairCoins at the official price [^EmalineComment02]
 
-[^EmalineComment02]: Is this a hard decision NOT to honor faircoins purchased on exchanges? how will you differentiate between faircoins already owned by participating community members versus altcoin holders?
+**The above two examples show the effect of increasing the liquidity of FairCoop and of acting as a kind of reputation currency for those who have contributed to the ecosystem.** The FairCredit balances will be visible publicly by default. [^EmalineComment03]
 
-**The above two examples show the effect of increasing the liquidity of FairCoop and of acting as a kind of reputation currency for those who have contributed to the ecosystem.** The FairCredit balances will be visible publicly by default.
-
-[^EmalineComment03]: If you incentivize participation by increasing credit limits, liquidity is only in national currencies rather than actual goods and services in the ecosystem...you may actually end up encouraging a deeper connection with these currencies, rather than keeping business in the coop (also, this doesn't show the effect..the above might be the effect. are there other effects in mind? if so, they should be here.
-
-So what does FairCoop do with the liquidity received, apart from keep it as a reserve used to pay merchants who want to cash out their FairCoin? It could help to set up new cooperative businesses. And what can people do with their FairCredits? They can use them to buy shares in these new coops, and be entitled to a percentage of profits generated according to how many FairCredits they have invested. In this way, the FairCredits could function as a sort of Universal Basic Income.
-
-[^EmalineComment04]: Isn't a cooperative business precisely one owned by workers?
+So what does FairCoop do with the liquidity received, apart from keep it as a reserve used to pay merchants who want to cash out their FairCoin? It could help to set up new cooperative businesses. And what can people do with their FairCredits? They can use them to buy shares in these new coops, and be entitled to a percentage of profits generated according to how many FairCredits they have invested. In this way, the FairCredits could function as a sort of Universal Basic Income.[^EmalineComment04]
 
 Here's a very interesting design choice: if you invest your FairCredits on nascent coops, or existing projects needing support, besides receiving shares in that cooperative, you could also get some **EXTRA** credit limits. So when someone on the network organises a system wide **Crowdfunding**
-event, everyone that invests FairCredits gets say 10% of that investment back in terms of additional credit limits. Bearing in mind that one can only invest with POSITIVE credits (to avoid loopholes).
-
-[^EmalineComment05]: Here as elsewhere i'm a little concerned about the stakes for nascent cooperatives - will they be profitable enough to participate in this structure, in terms of delivery of goods and services to the ecosystem in which credit limits are useful? Profitable enough for investors to see returns? To me, this is a high ask for non-competitve groups.
+event, everyone that invests FairCredits gets say 10% of that investment back in terms of additional credit limits. Bearing in mind that one can only invest with POSITIVE credits (to avoid loopholes) [^EmalineComment05]
 
 This is a powerful way for the network to incentivise collaboration for the commons.
 
-FairCredits can also be converted to FairCoin at any time, on the condition of saving them for a period of time. These FairCoins would come from a FairCoin cash fund especially created for FairCredit, which in turn could come from the Pooled Fund.
-
-[^EmalineComment06]: Pooled fund? is this the initial node that also holds the reserves? also, does this mean Fair Coop is trying to buy up all available faircoin from exchanges and non-active holders?
+FairCredits can also be converted to FairCoin at any time, on the condition of saving them for a period of time. These FairCoins would come from a FairCoin cash fund especially created for FairCredit, which in turn could come from the Pooled Fund.[^EmalineComment06]
 
 The FairCoop reserve accounts in the various currencies would have to be totally transparent in order that people could see where their money was going.
 
@@ -48,9 +38,22 @@ We could also think how the FairCoop Local Nodes could have a special role in th
 
 This is just a draft proposal so far so any thoughts are appreciated, thanks.
 
+------
+
 Please see the diagram below for Julio's initial design:
 
 ![](/home/eltopo/EncFS/DropBoxCrypt/FairCoop/FairMutualCredit/julio-faircredit-holochain.jpg)
 
+-----
 
+[^EmalineComment01]: Thomas Greco is fairly clear that when the credit issuer has an egregious limit, things can sour quickly. holo, for example, does this because in our design there is the expectation of earning against this debt on transaction fees. is something similar planned for the main account?
 
+[^EmalineComment02]: Is this a hard decision NOT to honor faircoins purchased on exchanges? how will you differentiate between faircoins already owned by participating community members versus altcoin holders?
+
+[^EmalineComment03]: If you incentivize participation by increasing credit limits, liquidity is only in national currencies rather than actual goods and services in the ecosystem...you may actually end up encouraging a deeper connection with these currencies, rather than keeping business in the coop (also, this doesn't show the effect..the above might be the effect. are there other effects in mind? if so, they should be here.
+
+[^EmalineComment04]: Isn't a cooperative business precisely one owned by workers?
+
+[^EmalineComment05]: Here as elsewhere i'm a little concerned about the stakes for nascent cooperatives - will they be profitable enough to participate in this structure, in terms of delivery of goods and services to the ecosystem in which credit limits are useful? Profitable enough for investors to see returns? To me, this is a high ask for non-competitve groups.
+
+[^EmalineComment06]: Pooled fund? is this the initial node that also holds the reserves? also, does this mean Fair Coop is trying to buy up all available faircoin from exchanges and non-active holders?
