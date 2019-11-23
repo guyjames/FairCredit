@@ -55,12 +55,6 @@ This is just a draft proposal so far so any thoughts are appreciated, thanks.
 
 ------
 
-Please see the diagram below for Julio Monteiro's initial design:
-
-![](julio-faircredit-holochain.jpg)
-
------
-
 [^EmalineComment01]: Emaline: Thomas Greco is fairly clear that when the credit issuer has an egregious limit, things can sour quickly. holo, for example, does this because in our design there is the expectation of earning against this debt on transaction fees. is something similar planned for the main account?
 
 [^EmalineComment02]: Emaline: Is this a hard decision NOT to honor faircoins purchased on exchanges? how will you differentiate between faircoins already owned by participating community members versus altcoin holders?
